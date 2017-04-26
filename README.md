@@ -1,6 +1,6 @@
 # npmdoc-datatables.net
 
-#### api documentation for  [datatables.net (v1.10.15)](https://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.net.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables.net) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.net.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables.net)
+#### basic api documentation for  [datatables.net (v1.10.15)](https://datatables.net)  [![npm package](https://img.shields.io/npm/v/npmdoc-datatables.net.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-datatables.net) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-datatables.net.svg)](https://travis-ci.org/npmdoc/node-npmdoc-datatables.net)
 
 #### DataTables for jQuery
 
@@ -63,7 +63,8 @@
         "type": "git",
         "url": "git+https://github.com/DataTables/Dist-DataTables.git"
     },
-    "version": "1.10.15"
+    "version": "1.10.15",
+    "bin": {}
 }
 ```
 
